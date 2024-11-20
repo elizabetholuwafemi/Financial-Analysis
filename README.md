@@ -34,7 +34,7 @@ This analysis aims to:
 #### Profit Margins Reflect Operational Strength  
 - Margins increased from 48% in 2020 to 50% in 2023 due to strategic cost management.  
 
----
+
 
 ## **Overall Performance Table**  
 
@@ -66,7 +66,7 @@ This analysis aims to:
 - **Cross River and Bayelsa:** Maintained solid 48% margins, with Cross River slightly outperforming in revenue.  
 - **Edo:** Profit margin of 47%, just below the company average.  
 
----
+
 
 ## **Branch-Level Financial Analysis Table**  
 
@@ -84,13 +84,13 @@ This analysis aims to:
 
 Here is the financial dashboard displaying overall and branch-level performance. 
 
- Revebue                   |                                      Expenses                                
+ Revenue                   |                                      Expenses                                
 :------------------------------|-----------------------------------------------:         
- ![](Vendors.png) |                       ![](plant1.png)
----
+ ![](Revenue.png) |                       ![](expenses.png)
+
+### You can interact with the report [here](https://app.powerbi.com/groups/me/reports/4b115e46-4fa6-4903-802f-27399f6c971b/f913e8ae840ee67f6a86?experience=power-bi)
 
 
----
 
 ## Recommendations  
 
@@ -104,25 +104,12 @@ Here is the financial dashboard displaying overall and branch-level performance.
 
 ### **Performance Monitoring**  
 - Regularly review branch performance to identify trends and inefficiencies.  
-- Develop tailored action plans for branches based on financial metrics.  
+- Develop tailored action plans for branches based on financial metrics.
 
----
 
-## Conclusion  
+This analysis highlights the company’s ability to sustain profitability despite revenue challenges and identifies opportunities for improvement at both the company and branch levels
 
-The analysis highlights the company’s resilience in maintaining profitability amid revenue challenges. By addressing branch-level inefficiencies and leveraging actionable insights, the company can achieve sustained financial growth and operational efficiency.  
 
-**Let’s take the next step by leveraging interactive dashboards to explore deeper insights!**  
-
----
-
-## Visualizations  
-
-> **Placeholder for Dashboards:**  
-> Add Power BI dashboards for:  
-> - Overall company performance trends.  
-> - Branch-level performance comparisons.  
-> - Profit margin analysis and actionable metrics.  
 
 
 
